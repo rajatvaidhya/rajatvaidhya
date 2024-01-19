@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [Eventlabs](https://eventlabs-frontend.vercel.app)
 
-- 🌱 I’m currently learning **React Native, NextJS**
+- 🌱 I’m currently learning - **React Native, NextJS**
 
 - 👨‍💻 All of my projects are available at [https://rajatvaidhya.vercel.app](https://rajatvaidhya.vercel.app)
 
 - 📫 How to reach me **rajatvaidhya@gmail.com**
 
-- ⚡ Fun fact **Who knows what's the nature of an electron; it totally depends on us!**
+- ⚡ Fun fact - **Who knows what's the nature of an electron; it totally depends on us!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

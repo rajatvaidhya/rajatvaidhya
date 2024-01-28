@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rajatvaidhya@gmail.com**
 
-- ⚡ Fun fact - **Who knows what's the nature of an electron; it totally depends on us!**
+- ⚡ Fun fact - **Found myself more wave and less particle.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

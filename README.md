@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rajatvaidhya@gmail.com**
 
-- ⚡ Fun fact - **Found myself more wave and less particle.**
+- ⚡ Fun fact - **Love to play badminton.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
